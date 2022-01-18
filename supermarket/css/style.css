@@ -1,0 +1,7 @@
+body{background: linear-gradient(rgba(0, 0, 0, 0.445),rgba(0, 0, 0, 0.445)), url(../Shopping_Concepts_16.png); background-size: cover
+ }
+ *{color: #fff;}
+h1{color: #ffa376;}
+.btn{background-color: #ffa376 ; border: none; border-radius: 2px; padding: 10px 20px; width: 100%;}
+
+.right{margin-top: 20vh; }

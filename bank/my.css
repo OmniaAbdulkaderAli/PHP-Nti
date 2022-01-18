@@ -1,0 +1,22 @@
+body{background: url(./online-banking.jpeg);
+background-size: cover; padding:0;}
+h3{margin-bottom: 15%;}
+.right{background-color:rgba(0, 0, 0, 0.822);
+    color: #fff;
+width: 40%;
+height: 100%;
+margin: 0 auto;
+
+text-align: center;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+
+form input{display: block ; margin: 10px auto; border: none; border-radius: 5%; padding:5px; margin:0 auto 30px;} 
+.result div{ display: inline-block; margin: 0 15px; font-size: 20px; 
+}
+
+button{border-radius:10% ; padding:5px 15px; border: none;}
+button:hover{background-color: rgba(56, 169, 197, 0.548);}
